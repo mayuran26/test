@@ -1,0 +1,217 @@
+*{
+
+}
+#header
+{
+border:4px solid blue;
+padding:5px;
+margin:5px 5px;
+/* position:fixed; */
+}
+/*#header_design
+{
+margin-top:15px;
+background-color:#43597c;
+padding:20px;
+border-color:green;
+border-style:groove;
+color:#4e0654;*/
+/* border-width:4px;
+border-color:green;
+border-style:solid; 
+border:4px solid green;
+margin:5px;
+vertical-align:middle;
+}*/
+#the_section
+{
+float:left;
+margin:10px 5px 10px 5px;
+padding:10px;
+border:2px solid green;
+width:1200px;
+}
+#side_news
+{
+float:left;
+margin:10px 5px 10px 12px;
+padding:10px;
+border:2px solid green;
+width:290px;
+}
+#footer
+{
+clear:both;
+border:2px solid black;
+padding:10px;
+text-align:center;
+margin:5px 5px;
+}
+#header_design
+{
+margin-top:15px;
+margin-left:5px;
+margin-right:5px;
+background-color:#43597c;
+padding:20px;
+border-color:green;
+border-style:groove;
+color:#4e0654;
+}
+
+#headertwo
+{
+margin-top:15px;
+margin-left:5px;
+margin-right:5px;
+background-color:#43597c;
+padding:20px;
+border-color:green;
+border-style:groove;
+color:#4e0654;
+}
+
+
+.Logo_pic
+{
+display:inline;
+vertical-align:middle;
+
+}
+.head_test
+{
+display:inline;
+padding:170px;
+}
+#top_nav{
+border:2px solid blue;
+margin:4px 6px;
+}
+#top_nav ul
+{
+list-style-type:none;
+}
+#top_nav ul li
+{
+display:inline;
+padding:70px 150px;
+}
+#top_nav ul li a
+{
+
+}
+
+#main_section
+{
+border:4px solid #669999;
+padding:5px;
+margin:5px 5px;
+}
+
+
+
+#blue_text
+{
+background-color:#a725ce;
+padding:50px;
+/* border-width:4px;
+border-color:green;
+border-style:solid; */
+/*border:4px dashed green; 
+Other styles you guys can use are:
+solid
+dotted
+dashed
+inset 
+outset
+double 
+groove 
+rigde*/
+
+border:4px outset #674daf;
+margin:0px;
+}
+#home_head
+{
+background-color:#a725ce;
+padding:50px;
+border:4px outset #674daf;
+margin:0px;
+}
+.maroon_text
+{
+	color:#af361d;
+}
+
+.blue_text
+{
+	color:blue;
+}
+
+#orange_p
+{
+color:orange;
+}
+
+body
+{
+background-color:#27c0d1;
+}
+
+.prof_pic{
+float:right;
+margin-right:5px;
+}
+.about_selenium
+{
+clear:right;
+
+}
+.about_me
+{
+color:#61107D;
+
+}
+.S1_test{
+color:#05A81B;
+font-size:20px;
+font-weight:bold;
+}
+.S2_test
+{
+color:#A80520;
+font-size:20px;
+font-weight:bold;
+}
+#brown_color
+{
+	color:#b34700
+}
+#MTLE p:first-letter
+{
+color:blue;
+font-weight:bold;
+}
+a{
+color:#b5136c;
+text-decoration:none;
+font-weight:bold;
+}
+a:visited
+{
+color:green;
+}
+a:hover
+{
+color:yellow;
+text-decoration:underline;
+}
+a:active
+{
+color:white;
+text-decoration:underline;
+}
+#smile_img{
+list-style-image:url('../images/mm1.png');
+margin-left:30px;
+}
